@@ -50,3 +50,49 @@ It's designed for educational and practical purposes to demonstrate how raw CSV 
 ├── requirements.txt             # List of required libraries
 ├── .gitignore                   # Git ignore rules
 └── README.md                    # You're reading this file
+Installation
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/house-price-predictor.git
+cd house-price-predictor
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Add your dataset:
+Place your data.csv in the same directory as the notebook.
+
+Run the notebook:
+
+bash
+Copy
+Edit
+jupyter notebook "SINHA'S REAL WORLD.ipynb"
+🧰 Technologies Used
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib & Seaborn
+
+Scikit-Learn
+
+Jupyter Notebook
+
+📊 Results
+Achieved good prediction accuracy using regression models
+
+Identified strong correlations (e.g., price vs area)
+
+Visualized prediction results with error plots
+
+(Optional: include graphs, tables, metrics here)
+
+
